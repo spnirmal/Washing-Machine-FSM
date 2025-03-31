@@ -143,7 +143,7 @@ This monitors the FSM state and output signals in real-time.
 
 ### Explaining the operation using waveforms generated from GTKWave
 ![State Transition gtkwave Screenshot](https://github.com/spnirmal/Washing-Machine-FSM/blob/main/.assets/gtkwave-screenshot.png)
-)
+
 
 #### Understanding the Signals
 
