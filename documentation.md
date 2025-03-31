@@ -50,7 +50,7 @@ This block ensures:
 - If `door_open` is detected, the machine returns to `IDLE`.
 - Otherwise, the FSM transitions to the `next_state`.
 
-![State Transition Logic Screenshot](![image](https://github.com/user-attachments/assets/15b394b5-2886-4dcf-9e2b-50e19b5c5e7f)
+![State Transition Logic Screenshot](https://github.com/spnirmal/Washing-Machine-FSM/blob/main/.assets/state-fsm-screenshot.png
 )
 
 ### Next State Logic
@@ -142,7 +142,7 @@ end
 This monitors the FSM state and output signals in real-time.
 
 ### Explaining the operation using waveforms generated from GTKWave
-![State Transition gtkwave Screenshot](![image](https://github.com/user-attachments/assets/b8079eda-ca13-4af0-b29e-1d6da376f7e9)
+![State Transition gtkwave Screenshot]()
 )
 
 #### Understanding the Signals
